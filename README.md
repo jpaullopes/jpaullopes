@@ -10,7 +10,6 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaullopes&layout=compact&theme=radical&langs_count=10)
 
-*Observação: Estas são as linguagens mais usadas em meus projetos no GitHub.*
 
 ## 📫 Como me encontrar
 
