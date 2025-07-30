@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white" alt="Obsidian">
-  <img src="https://img.shields.io/badge/Anki-50BFE6?logo=anki&logoColor=white" alt="Anki">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
 </div>
 
