@@ -15,6 +15,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-CC0000?logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
