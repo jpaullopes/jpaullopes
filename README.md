@@ -36,7 +36,6 @@
 <img 
   alt="GitHub Streak" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=jpaullopes&theme=tokyonight&hide_border=true" 
-  style="margin-left: 20px;"
 />
 
 </div>
