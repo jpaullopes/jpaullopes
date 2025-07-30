@@ -33,13 +33,6 @@
   src="https://github-readme-stats.vercel.app/api?username=jpaullopes&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" 
 />
 
-<img 
-  alt="GitHub Streak" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jpaullopes&theme=tokyonight&hide_border=true" 
-/>
-
-</div>
-
 <div align="center" style="margin-top: 16px;">
 
 <img 
