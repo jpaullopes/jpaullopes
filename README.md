@@ -59,7 +59,7 @@
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos Atuais
 
 - Consolidar conhecimentos em desenvolvimento de sistemas.  
 - Ganhar experiência prática com projetos de IoT e sistemas embarcados.  
