@@ -19,8 +19,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SSH-000000?logo=gnome-terminal&logoColor=white" alt="SSH">
+  <img src="https://img.shields.io/badge/Cloud-4285F4?logo=cloudflare&logoColor=white" alt="Cloud">
+  <img src="https://img.shields.io/badge/Networking-00C7B7?logo=cisco&logoColor=white" alt="Networking">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
 </div>
+
 
 ---
 
