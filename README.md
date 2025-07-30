@@ -1,4 +1,4 @@
-# Olá! Eu sou o João 👋
+# Olá! Eu sou o João Paulo 👋
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas** | 🔒 Apaixonado por Cibersegurança & Sistemas Embarcados
 
@@ -6,10 +6,8 @@
 
 ## 🚀 Sobre mim
 
-- Estudante dedicado, focado em aprender fazendo: de projetos IoT com **Raspberry Pi Pico W** a estações meteorológicas e alertas de gás.
-- Amo entender como as coisas funcionam “por baixo do capô” — redes, Linux, Docker, PostgreSQL e microcontroladores.
-- Uso **Obsidian** + **Anki** (método A.R.E.) para organizar os estudos e revisão espaçada.
-- Estudando inglês técnico para ler documentação e colaborar em projetos open-source.
+- Estudante dedicado, focado em aprender fazendo: de projetos IoT com **Raspberry Pi Pico W** e **Redes**.
+- Amo entender como as coisas realemnte funcionam — redes, Linux, Docker, PostgreSQL e microcontroladores.
 
 ---
 
@@ -28,9 +26,30 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpaullopes&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpaullopes&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpaullopes&layout=compact&theme=radical)
+<div align="center">
+
+<img 
+  alt="João's GitHub Stats" 
+  src="https://github-readme-stats.vercel.app/api?username=jpaullopes&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true" 
+/>
+
+<img 
+  alt="GitHub Streak" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=jpaullopes&theme=tokyonight&hide_border=true" 
+  style="margin-left: 20px;"
+/>
+
+</div>
+
+<div align="center" style="margin-top: 16px;">
+
+<img 
+  alt="Top Languages" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpaullopes&layout=compact&theme=tokyonight&hide_border=true" 
+/>
+
+</div>
+
 
 ---
 
